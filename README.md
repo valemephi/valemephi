@@ -1,5 +1,9 @@
 ## Hi there👋
 I am Valerii, currently I'm studying applied mathematics and physics at NRNU MEPhI
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!--
 **valemephi/valemephi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
